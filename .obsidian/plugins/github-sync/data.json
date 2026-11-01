@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/mattold7/Matt_NoteBook.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}

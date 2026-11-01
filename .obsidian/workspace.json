@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Stuff/Woodworking Projects List.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Woodworking Projects List"
+              "title": "README"
             }
           }
         ]
@@ -185,13 +185,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "6b79dcd620529c9b",
   "lastOpenFiles": [
-    "House Stuff/3D Printing Projects.md",
+    "Welcome.md",
     "House Stuff/Woodworking Projects List.md",
+    "House Stuff/3D Printing Projects.md",
     "Untitled.canvas",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -202,7 +204,6 @@
     "StickyNotes/2026",
     "StickyNotes",
     "2026-10-30.md",
-    "Welcome.md",
     "House Stuff"
   ]
 }
