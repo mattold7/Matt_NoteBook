@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea0f4b1e459dc5d",
+        "id": "48dce93daa0e9202",
         "type": "tabs",
         "children": [
           {
-            "id": "6b79dcd620529c9b",
+            "id": "afdefc23adcaee9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -174,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 749.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,12 +191,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6b79dcd620529c9b",
+  "active": "afdefc23adcaee9c",
   "lastOpenFiles": [
-    "Welcome.md",
+    "README.md",
+    "3D Printing/3D Printing Projects.md",
+    "3D Printing/Current Kits Work Light.md",
+    "Car Stuff/2027 Ford Bronco Badlands 4-Door Build.md",
+    "Car Stuff/2027 Bronco Non-Sasquatch Suspension and Wheel Options.md",
+    "Car Stuff/2027 Bronco Order Guide.pdf",
     "House Stuff/Woodworking Projects List.md",
-    "House Stuff/3D Printing Projects.md",
+    "2026-11-01.md",
     "Untitled.canvas",
+    "Car Stuff/Preview Order T759 - E9B - BADLANDS 4 DOOR.pdf",
+    "Car Stuff",
+    "3D.md",
+    "3D Printing",
+    "House Stuff/Untitled",
+    "House Stuff/Finished 3D Printed Projects.md",
+    "Welcome.md",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
@@ -202,8 +216,6 @@
     "StickyNotes/2026/testing.md",
     "StickyNotes/2026/2026-10-31.md",
     "StickyNotes/2026",
-    "StickyNotes",
-    "2026-10-30.md",
-    "House Stuff"
+    "2026-10-30.md"
   ]
 }
