@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48dce93daa0e9202",
+        "id": "46972e6970f9012c",
         "type": "tabs",
         "children": [
           {
-            "id": "afdefc23adcaee9c",
+            "id": "1a7b47982a6f7b9f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Woodworking Projects/Current Woodworking Projects.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Current Woodworking Projects"
             }
           }
         ]
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Woodworking Projects/Current Woodworking Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,18 +188,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "afdefc23adcaee9c",
+  "active": "1a7b47982a6f7b9f",
   "lastOpenFiles": [
-    "README.md",
+    "House Stuff/Bella Vista House Projects.md",
+    "House Stuff/Pflugerville House Projects.md",
+    "Woodworking Projects/Current Woodworking Projects.md",
+    "House Stuff/Bella Vista Build and Retirement Plan.md",
+    "House Stuff/Woodworking Projects List.md",
+    "Car Stuff/2027 Ford Bronco Badlands 4-Door Build.md",
     "3D Printing/3D Printing Projects.md",
     "3D Printing/Current Kits Work Light.md",
-    "Car Stuff/2027 Ford Bronco Badlands 4-Door Build.md",
-    "Car Stuff/2027 Bronco Non-Sasquatch Suspension and Wheel Options.md",
-    "Car Stuff/2027 Bronco Order Guide.pdf",
-    "House Stuff/Woodworking Projects List.md",
-    "2026-11-01.md",
+    "Woodworking Projects/Future Woodworking Projects.md",
+    "Woodworking Projects/Laser Enclosure.md",
+    "Woodworking Projects/Pflugerville MTB Signs.md",
+    "Attachments/Pasted image 20261108151114.png",
+    "Attachments/Pasted image 20261108151057.png",
+    "Attachments/Pasted image 20261108151043.png",
+    "Attachments/Pasted image 20261108150937.png",
+    "Attachments/Pasted image 20261108150907.png",
+    "Attachments/Pasted image 20261108150848.png",
+    "Attachments/Pasted image 20261108145226.png",
+    "Bike Stuff/Trek Roscoe Rear Wheel Replacement.md",
+    "Car Stuff/2027 Bronco Trailer Module FORScan Setup.md",
+    "Car Stuff/2027 Ford Bronco Badlands 4-Door Build (pre-order archive).md",
+    "Attachments/Preview Order T759 - E9B - BADLANDS 4 DOOR.pdf",
+    "Attachments/2027 Bronco Order Guide.pdf",
+    "Attachments",
+    "Woodworking Projects",
+    "README.md",
     "Untitled.canvas",
-    "Car Stuff/Preview Order T759 - E9B - BADLANDS 4 DOOR.pdf",
+    "Car Stuff/2027 Bronco Non-Sasquatch Suspension and Wheel Options.md",
+    "2026-11-01.md",
     "Car Stuff",
     "3D.md",
     "3D Printing",
@@ -212,10 +228,8 @@
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
     "StickyNotes/2026/testing.md",
     "StickyNotes/2026/2026-10-31.md",
-    "StickyNotes/2026",
     "2026-10-30.md"
   ]
 }

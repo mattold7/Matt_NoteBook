@@ -1,6 +1,3 @@
-
-# Active
-
 PF MTB Signs
 - [x] 3 Genesis
 - [x] 4 1849 Loop (3 Made)
