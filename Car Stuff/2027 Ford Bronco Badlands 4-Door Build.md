@@ -20,7 +20,7 @@ Ordered 2026-11-05 through Granger Motors (order T235, customer agreement signed
 | Top | Cloth soft top with prep kit |
 | Color / interior | Desert Sand (VA), Black Onyx vinyl seats, rubberized flooring |
 | Equipment group | Lux (334A) |
-| Options | Front stabilizer bar disconnect (68M), LED signature headlamps and taillamps (68S), keyless entry keypad (63C), engine block heater (41H), front license plate bracket (153) |
+| Options | Front stabilizer bar disconnect (68M), LED signature headlamps and taillamps (68S), keyless entry keypad (63C), engine block heater (41H), front license plate bracket (153), floor liners without floor mats (added 11/13) |
 | Not ordered | Paint protection film (96B), factory tow package, Sasquatch |
 
 ### Price (Granger, signed T235)
@@ -34,28 +34,31 @@ Ordered 2026-11-05 through Granger Motors (order T235, customer agreement signed
 | Keyless entry keypad | $250 | $235 |
 | Front stabilizer bar disconnect | $1,305 | $1,227 |
 | LED signature headlamps | $595 | $559 |
+| Floor liners without floor mats (added 11/13) | $160 | $150 |
 | Destination and delivery | $1,995 | $1,995 |
 | Other lines (lot management, fuel charge) | $0 | $93.16 |
-| **Total** | **$58,220** | **$56,162.16** |
+| **Total** | **$58,380** | **$56,312.16** |
 
-Granger's vehicle price: **$53,350.91**. Fees on top: $180 doc fee and $165 in-transit fee, plus sales tax, title and registration (estimated $3,475).
+Granger's vehicle price: **$53,492.91** (11/13 preview with floor liners; was $53,350.91 on the signed 11/05 agreement). Fees on top: $180 doc fee and $165 in-transit fee, plus Texas sales tax, title and registration (estimated $3,475, below).
+
+**Texas tax, title and registration (Travis County, est.):** 6.25% motor vehicle sales tax on about $53,838 (vehicle price plus the doc and in-transit fees, if those are taxed) = about $3,365, or $3,343 on the vehicle price alone. Title $33. Registration $75.50 ($50.75 base, $11.50 county fee, $7.50 inspection program fee, $4.75 processing, $1 TexasSure). Total about $3,450 to $3,475. Buying from an out-of-state dealer: make sure Granger doesn't collect Iowa's registration fee, and pay the Texas tax at the Travis County tax office when titling (Texas generally credits sales tax paid to another state). Confirm with the county tax office.
 
 | | Cost |
 |---|---|
-| Vehicle price | $53,351 |
+| Vehicle price | $53,493 |
 | Doc fee + in-transit fee | $345 |
-| Sales tax, title, registration (est.) | $3,475 |
-| **Vehicle total** | **$57,171** |
+| Texas sales tax, title, registration (est.) | $3,475 |
+| **Vehicle total** | **$57,313** |
 
 ### Total with planned aftermarket
 
 | | Low | High |
 |---|---|---|
-| Vehicle total | $57,171 | $57,171 |
+| Vehicle total | $57,313 | $57,313 |
 | Planned aftermarket (section 2) | $8,243 | $8,758 |
-| **Total before film** | **~$65,410** | **~$65,930** |
-| With front-only film ($1,600 quote) | ~$67,010 | ~$67,530 |
-| With full-coverage film ($5,500 quote) | ~$70,910 | ~$71,430 |
+| **Total before film** | **~$65,560** | **~$66,070** |
+| With front-only film ($1,600 quote) | ~$67,160 | ~$67,670 |
+| With full-coverage film ($5,500 quote) | ~$71,060 | ~$71,570 |
 
 Not included: sales tax on online parts or film, insurance, floor liners and small accessories. Shop installs instead of DIY add roughly $500 to $1,200.
 
@@ -92,9 +95,19 @@ Status values: Planned, Ordered, Received, Installed. Fill in the Actual column 
 | 35x11.50R17 tires (with spare) | about $3,000 | One owner used Ford Performance 17x8 wheels with 1.75" spacers. |
 | Sasquatch rear stabilizer bar | about $550 | Ford parts NB3Z-5A772-A and others. Confirm the Badlands frame has the mounts. |
 | [MRT no-drill hood struts (80K110)](https://www.shopmrt.com/2021-Bronco-MRT-No-Drill-Hood-Lifts-80K110-p/80k110.htm) | about $140 | Page lists $139.99 and $167.99; confirm 2027 fitment. About 30 minutes to install, no drilling. Color-match brackets cost extra. |
-| [Ford all-weather floor liners for vinyl flooring, 4-door (M2DZ-7813300-BA)](https://www.ford.com/product/floor-liners-for-vinyl-flooring-for-4door-p2737699847) | about $262 (about $110 after Ford Rewards points) | Ford's TPE liners for the washout floor, four-piece front and rear set. Listed for 2021 to 2026, so confirm 2027 and the part number by VIN with Granger. Replaces the TuxMat option. |
-| Ford Rewards points from the purchase | about -$155 | About 31,000 points (2025 terms) at $0.005 each. Activate FordPass Connect and Ford Rewards within 60 days of delivery. Usable on Ford accessories and parts, such as these liners or the trailer module, not on TuxMat or other brands. Expire after 18 months with no activity. |
 | [IAG Trail Shield adjustable mud flaps, front and rear](https://www.iagoffroad.com/products/iag-trail-shield-adjustable-mud-flaps-front-rear-set-for-2021-25-ford-bronco) | about $200 | No drilling, about an hour to install. Works with rock rails. Page doesn't mention 2027 or the steel rear bumper, so confirm both with IAG. |
+
+### Buy with Ford Rewards points
+
+About 31,000 points from the purchase (2025 terms) at $0.005 each, about $155. Activate FordPass Connect and Ford Rewards within 60 days of delivery. Points work only on Ford accessories and parts and expire after 18 months with no activity.
+
+| Item | Price | Notes |
+|---|---|---|
+| [Ford cargo area liner with Bronco logo, 4-door (M2DZ-58047A74-BA)](https://www.ford.com/product/cargo-area-liner-for-4door-bronco-logo-p2955669563) | about $225 | Black molded rubber, no tools to install. Listed for 2021 to 2026 four-doors including Badlands, so confirm 2027. Not in the totals above. |
+| Trailer module (already in the tracker) | $110 | Confirm the part number first (see the open questions). |
+| [Ford Performance hood lift kit (M-16826-B)](https://www.ford.com/product/bronco-hood-lift-kit-p2827834115) | about $130 | Gas struts, no drilling, uses existing holes. Lifts the hood about 8" above prop rod height. Listed for 2021 to 2026 Badlands (not Everglades or Raptor), so confirm 2027. Alternative to the MRT struts. Not in the totals above. |
+| Ford Rewards points | about -$155 | |
+| **Out of pocket for all three** | **about $310** | |
 
 ### Hitch notes
 
@@ -130,7 +143,8 @@ Armadillo has sold out before, so be ready to order on the day orders open. HK i
 
 - [x] Bronco ordered and submitted 11/05/2026 (T235)
 - [ ] Ford order number or VIN, and a delivery estimate, from Granger
-- [ ] Itemized breakdown of the $53,350.91 vehicle price
+- [ ] Confirm the floor liner change (11/13 preview, $53,492.91) is submitted to Ford and doesn't delay the build, and get an updated signed agreement
+- [ ] Itemized breakdown of the $53,492.91 vehicle price
 - [ ] Can the $165 in-transit fee be dropped?
 - [ ] Actual tax, title and registration
 - [ ] Does Ford App remote start work on the manual?
